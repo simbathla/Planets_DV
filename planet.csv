@@ -1,0 +1,46 @@
+﻿name,distance,planet_type,discovery_year,mass_wrt,radius_multiplier,radius_wrt
+55 Cancri c,41.0,Gas Giant,2004,Jupiter,0.76,Jupiter
+55 Cancri d,41.0,Gas Giant,2002,Jupiter,1.16,Jupiter
+55 Cancri e,41.0,Super Earth,2004,Earth,1.875,Earth
+55 Cancri f,41.0,Gas Giant,2007,Jupiter,0.677,Jupiter
+61 Virginis b,28.0,Neptune-like,2009,Earth,2.11,Earth
+61 Virginis c,28.0,Neptune-like,2009,Earth,0.398,Jupiter
+61 Virginis d,28.0,Neptune-like,2009,Earth,0.456,Jupiter
+6 Lyncis b,178.0,Gas Giant,2008,Jupiter,1.19,Jupiter
+70 Virginis b,58.0,Gas Giant,1996,Jupiter,1.13,Jupiter
+75 Ceti b,271.0,Gas Giant,2012,Jupiter,1.17,Jupiter
+7 Canis Majoris b,65.0,Gas Giant,2011,Jupiter,1.2,Jupiter
+7 Canis Majoris c,65.0,Gas Giant,2019,Jupiter,1.24,Jupiter
+81 Ceti b,330.0,Gas Giant,2008,Jupiter,1.14,Jupiter
+8 Ursae Minoris b,530.0,Gas Giant,2015,Jupiter,1.22,Jupiter
+91 Aquarii b,144.0,Gas Giant,2013,Jupiter,1.17,Jupiter
+AB Aurigae b,529.0,Gas Giant,2022,Jupiter,1.12,Jupiter
+AB Pictoris b,163.0,Gas Giant,2005,Jupiter,1.1,Jupiter
+Alpha Arietis b,66.0,Gas Giant,2010,Jupiter,1.2,Jupiter
+Alpha Tauri b,67.0,Gas Giant,2015,Jupiter,1.13,Jupiter
+AU Microscopii b,32.0,Neptune-like,2020,Earth,0.363,Jupiter
+AU Microscopii c,32.0,Neptune-like,2021,Earth,0.289,Jupiter
+BD-06 1339 b,66.0,Neptune-like,2013,Earth,0.254,Jupiter
+CD Ceti b,28.0,Super Earth,2020,Earth,1.82,Earth
+CoRoT-7 b,522.0,Super Earth,2009,Earth,1.681,Earth
+DMPP-1 d,204.0,Super Earth,2019,Earth,1.65,Earth
+DMPP-1 e,204.0,Super Earth,2019,Earth,1.86,Earth
+K2-137 b,323.0,Terrestrial,2017,Jupiter,0.64,Earth
+Kepler-239 c,2114.0,Neptune-like,2014,Earth,0.224,Jupiter
+Kepler-23 b,2726.0,Neptune-like,2011,Jupiter,1.9,Earth
+Kepler-23 c,2726.0,Neptune-like,2011,Jupiter,0.285,Jupiter
+Kepler-23 d,2726.0,Super Earth,2014,Earth,2.2,Earth
+Kepler-240 b,2436.0,Super Earth,2014,Earth,1.37,Earth
+Kepler-240 c,2436.0,Super Earth,2014,Jupiter,2.2,Earth
+Kepler-241 b,1670.0,Neptune-like,2014,Earth,0.208,Jupiter
+Kepler-241 c,1670.0,Neptune-like,2014,Earth,0.229,Jupiter
+Kepler-242 b,1958.0,Neptune-like,2014,Earth,0.233,Jupiter
+Kepler-242 c,1958.0,Super Earth,2014,Earth,2.0,Earth
+Kepler-243 b,2263.0,Neptune-like,2014,Earth,0.219,Jupiter
+Kepler-243 c,2263.0,Super Earth,2014,Earth,1.99,Earth
+Kepler-244 b,3381.0,Neptune-like,2014,Earth,0.246,Jupiter
+Kepler-244 c,3381.0,Super Earth,2014,Earth,2.05,Earth
+Kepler-244 d,3381.0,Super Earth,2014,Earth,0.206,Jupiter
+Kepler-245 b,2810.0,Neptune-like,2014,Earth,0.229,Jupiter
+Kepler-245 c,2810.0,Super Earth,2014,Jupiter,2.18,Earth
+Kepler-245 d,2810.0,Neptune-like,2014,Earth,0.27,Jupiter

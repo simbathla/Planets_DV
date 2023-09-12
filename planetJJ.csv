@@ -1,0 +1,17 @@
+﻿name,distance,planet_type,discovery_year,radius_multiplier
+55 Cancri c,41.0,Gas Giant,2004,0.76
+55 Cancri d,41.0,Gas Giant,2002,1.16
+55 Cancri f,41.0,Gas Giant,2007,0.677
+6 Lyncis b,178.0,Gas Giant,2008,1.19
+70 Virginis b,58.0,Gas Giant,1996,1.13
+75 Ceti b,271.0,Gas Giant,2012,1.17
+7 Canis Majoris b,65.0,Gas Giant,2011,1.2
+7 Canis Majoris c,65.0,Gas Giant,2019,1.24
+81 Ceti b,330.0,Gas Giant,2008,1.14
+8 Ursae Minoris b,530.0,Gas Giant,2015,1.22
+91 Aquarii b,144.0,Gas Giant,2013,1.17
+AB Aurigae b,529.0,Gas Giant,2022,1.12
+AB Pictoris b,163.0,Gas Giant,2005,1.1
+Alpha Arietis b,66.0,Gas Giant,2010,1.2
+Alpha Tauri b,67.0,Gas Giant,2015,1.13
+Kepler-23 c,2726.0,Neptune-like,2011,0.285

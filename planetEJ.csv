@@ -1,0 +1,15 @@
+﻿name,distance,planet_type,discovery_year,radius_multiplier
+61 Virginis c,28.0,Neptune-like,2009,0.398
+61 Virginis d,28.0,Neptune-like,2009,0.456
+AU Microscopii b,32.0,Neptune-like,2020,0.363
+AU Microscopii c,32.0,Neptune-like,2021,0.289
+BD-06 1339 b,66.0,Neptune-like,2013,0.254
+Kepler-239 c,2114.0,Neptune-like,2014,0.224
+Kepler-241 b,1670.0,Neptune-like,2014,0.208
+Kepler-241 c,1670.0,Neptune-like,2014,0.229
+Kepler-242 b,1958.0,Neptune-like,2014,0.233
+Kepler-243 b,2263.0,Neptune-like,2014,0.219
+Kepler-244 b,3381.0,Neptune-like,2014,0.246
+Kepler-244 d,3381.0,Super Earth,2014,0.206
+Kepler-245 b,2810.0,Neptune-like,2014,0.229
+Kepler-245 d,2810.0,Neptune-like,2014,0.27
